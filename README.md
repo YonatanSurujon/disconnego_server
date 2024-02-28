@@ -20,3 +20,17 @@ My friends found my project funny , so I ordered a few more of the components I 
 the code in this repo is incomplete. unfortunately i cant find the main file with the code for the arduino, although i have a few arduinos with the full functioning code on them, but recovering the code from the onboard memory on the arduinos themselves would be very difficult because it has already been compiled to machine code, so this will take hours of reverse engineering to restore the source code for it. I'd be better off coding it from scratch, which I actually want to do but haven't gotten around to it yet. I'll hopefully do it sometime before i finish highschool.
 
 if you have any questions youre more than welcome to contact me at yo7na7@gmail.com, id be happy to help you set up your own one of these with your friends. i can also upload the 3d print files for the case if somebody wants.
+
+
+
+
+**אם מישהו מ צה"ל מוצא את עצמו קורא את זה:**
+
+here's a video of mine from 8 years ago showing how to open a minecraft server to the local area network
+
+https://www.youtube.com/watch?v=h5BTbdsFyDQ
+
+
+here's a link to my youtube channel from 8 years ago
+
+https://www.youtube.com/channel/UCIflI1uGhZ59KyQdezElZAA
